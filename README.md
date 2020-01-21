@@ -3,6 +3,8 @@
 Sistema simples de cadastro para desenvolvedores. <br />
 Utilizando o usuário do GitHub e sua localização em tempo real, o app cadastra o usuário e preenche suas informações automáticamente. Com isso, o usuário já pode ser encontrado no mapa do aplicativo.
 
+Desenvolvido utilizando ReactJS.
+
 ## Para executar
 
 `yarn start`
